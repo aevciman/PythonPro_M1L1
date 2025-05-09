@@ -11,3 +11,4 @@ while True:
         print(kelime,"=",meme_sozluk[kelime])
     else:
         print("Maalesef, bu kelime sözlüğümüzde bulunmuyor:(")
+#thank you for looking my code :D
